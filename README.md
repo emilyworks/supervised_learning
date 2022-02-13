@@ -1,1 +1,1 @@
-# supervised_learning
+In this excercise, I leveraged sklearn to use supervised learning approaches to train ml models to predict credit lending risk levels. For exploratory purposes, the data was fit against a logistic regression and random forest model, with quick comments/predictions made about their fit and scores on unscaled and scaled data.
